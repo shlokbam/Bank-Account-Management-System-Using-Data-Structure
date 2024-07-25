@@ -29,12 +29,15 @@ A Python-based Bank Account Management System using Streamlit. Features include 
    git clone https://github.com/yourusername/bank-account-management-system.git
 ```
 2. Navigate to the project directory:
+```
    cd bank-account-management-system
-
-3. Install the required dependencies:
+```
+4. Install the required dependencies:
+```
    pip install -r requirements.txt
-
-4. Run the Streamlit app:
+```
+6. Run the Streamlit app:
+```
    streamlit run app.py
 ```
 
