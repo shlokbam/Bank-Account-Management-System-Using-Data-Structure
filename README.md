@@ -26,7 +26,7 @@ A Python-based Bank Account Management System using Streamlit. Features include 
 ```
 2. Navigate to the project directory:
 ```
-   cd bank-account-management-system
+   cd bank-account-management-system-using-data-structure
 ```
 4. Install the required dependencies:
 ```
